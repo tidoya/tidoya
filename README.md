@@ -10,7 +10,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/add_liby" target="blank"><img align="center" src="https://github.com/tidoya/tidoya/blob/main/img/telegram.svg" alt="tidoya" height="40" width="40" /></a>
+<a href="https://t.me/add_liby" target="blank"><img align="center" src="img/telegram.svg" alt="tidoya" height="40" width="40" /></a>
 </p>
 
 ### Languages:
