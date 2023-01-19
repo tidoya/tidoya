@@ -22,7 +22,7 @@
 
 ### Tools:
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGit-icon-black.svg&psig=AOvVaw3ZVxxwYkWIsm8iPJNdqFZ9&ust=1674224692824000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjA3pLr0_wCFQAAAAAdAAAAABAE" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tidoya/tidoya/blob/main/Git-Icon-Black.png" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F342347%2Fvisual-studio-code&psig=AOvVaw137_JZFPxcOchA-7xDXpFN&ust=1674224671513000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCWyYjr0_wCFQAAAAAdAAAAABAE" alt="vs" width="40" height="40"/> </a> 
 <a href="https://www.sublimetext.com/3" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fsublime-text&psig=AOvVaw0py2fOEbJvJ5ANRndjYmM_&ust=1674224728912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMD9jKTr0_wCFQAAAAAdAAAAABAE" alt="sub" width="40" height="40"/> </a> 
 </p>
