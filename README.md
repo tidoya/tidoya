@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning web
 
-- 🌍 I speak Russian (native), English (B1), France (A2)
+- 🌍 I speak Russian (native), English (B1), Français (A2)
 
 ### Connect with me:
 <p align="left">
