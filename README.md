@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/tidoya/badges/small)](https://www.codewars.com/users/tidoya)  
 
 # 💫 About Me:
-👻 I’m currently working on my IT Projects<br>👽 I’m teaching frontend dev at frameworks<br>🏂I’m ride on a snowboard<br>😈 Play video games<br>
+👻 I’m currently working on my IT Projects<br>👽 I’m teaching frontend dev at frameworks<br>🏂I ride on a snowboard<br>😈 Play video games<br>
 
 
 ## 🌐 Socials:
