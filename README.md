@@ -10,9 +10,8 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tidoya#4551)  [![Telegram](https://img.shields.io/badge/Telegram-%2344RD5F.svg?logo=Telegram&logoColor=white)](https://t.me/add_liby)
 
-
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,java,cpp,py,md,firebase,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+# 💻 Tech Stack:
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,java,cpp,py,md,firebase,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=docker,express,mongodb" alt="skills actively learning logos"> <br> 
@@ -20,6 +19,7 @@
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,redux,tensorflow,vue" alt="skills planning to learn logos">
 </div>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tidoya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tidoya&theme=dark&hide_border=false)<br/>
