@@ -16,9 +16,7 @@
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=docker,express,mongodb" alt="skills actively learning logos"> <br> 
   <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,redux,tensorflow,vue" alt="skills planning to learn logos">
-</div>
+
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tidoya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
